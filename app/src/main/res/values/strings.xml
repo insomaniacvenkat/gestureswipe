@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gesture Screenshot</string>
+
+    //App Strings
+    <string name="text_view">Swipe Somewhere on the screen</string>
+    <string name="text_view2">Long Press on the screen</string>
+
+</resources>
